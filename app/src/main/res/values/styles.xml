@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button.Red" parent="ThemeOverlay.AppCompat">
+        <item name="backgroundTint">@color/red</item>
+        <item name="android:textSize">30sp</item>
+        <item name="textAllCaps">false</item>
+        <item name="fontFamily">SF UI Display</item>
+        <item name="android:radius">6dp</item>
+    </style>
+
+    <style name="Widget.App.Spinner" parent="@style/Widget.AppCompat.Spinner">
+        <item name="overlapAnchor">true</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="paddingStart">8dp</item>
+        <item name="paddingEnd">8dp</item>
+    </style>
+
+</resources>

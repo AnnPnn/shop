@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Омск</item>
+        <item>Сочи</item>
+        <item>Иркутск</item>
+    </string-array>
+
+    <string name="menu">Menu</string>
+    <string name="account">Account</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desserts">Десерты</string>
+    <string name="beverages">Напитки</string>
+    <string name="addSh">Добавленные товары</string>
+    <string name="delSh">Удаленные товары</string>
+
+
+</resources>

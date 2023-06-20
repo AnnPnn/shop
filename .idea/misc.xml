@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/drawable/ic_def_image.xml" value="0.1" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/action_bar_main.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/activity_main.xml" value="0.12980769230769232" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/fragmenr_acc.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/fragment_del.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/fragment_menu.xml" value="0.3442028985507246" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/layout/list_item.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/AnikeevaPD/Desktop/shop/app/src/main/res/menu/bottom_main_menu.xml" value="0.4171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

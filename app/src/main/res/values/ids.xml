@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btDessert" type="id" />
+    <item name="btBeverages" type="id" />
+    <item name="btCombo" type="id" />
+    <item name="btPizza" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="horizontalScrollViewBt" type="id" />
+</resources>
